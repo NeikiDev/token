@@ -22,15 +22,18 @@ MTI2ODk4MDE0NTUxMTk5MzQ3OQ.GDnAPs.L0_4uSbVCU81mPoUZKhDlrvbtDOlC1t8-vGLd4
 
 MTIwMjQwMjY2MDIzODQ5OTk0MA.GPrras.mO57WBqUXyg3QZiMPr_EwuwiZ1L6OQ1MgANBWU
 
-https://tip.neiki.dev/file/2dfa94516c05d3c6935602e96e7e93f29f43c1f3ea57d16da051d22a56e1d9cf/config
+https://tip.neiki.dev/file/2dfa94516c05d3c6935602e96e7e93f29f43c1f3ea57d16da051d22a56e1d9cf
 MTI2OTIyMjMyMjIyOTczOTUzMg.GyI708.Ijt-1CqRhtizkyYbNU0tX2q9hIir5_GAAhlryk
 
-https://tip.neiki.dev/file/3b69e72c8db1864fbbbc2584562f7d627c371b82337365005f50af428a6a7203/config
+https://tip.neiki.dev/file/3b69e72c8db1864fbbbc2584562f7d627c371b82337365005f50af428a6a7203
 MTI2OTI0OTEwMjQ5NTg3OTIyOQ.GLHhlB.ypGKkwamHbm_Ye58lhiwJG8n231holsbEjjd7g
 
-https://tip.neiki.dev/file/e0c19df68387d0abf5057a4b160061c447c396f426c2095da6e7bb05882580e0/config
+https://tip.neiki.dev/file/e0c19df68387d0abf5057a4b160061c447c396f426c2095da6e7bb05882580e0
 MTI2OTMyNjMyMjU2NDQ2NDcyMA.Gu6MeW.9sR1DdBFtf43caLzgKfKK2XA_VZxEuQCEc5QyA
 
 https://tip.neiki.dev/file/5a0c51497d3ff11818340ffb4e10ab631fd74923a57e315c068b37f3e1ae3952
 MTIwOTI0MDMxODQzNjcwNDI2Ng.GV3uqM.q_1_-iJbxvHtLV17uuNAyHtplk8OLHpbr8b8O8
+
+https://tip.neiki.dev/file/f1a7a28e740662caf951e9cad821f700f179969f01c6189c7c3d2feee6b3c7ad
+MTI1ODI0ODgxODg5NDQzODU0MQ.GtMqtu.TFdVaB2ncG-zERbucajj-1qChbt7CtWp-x3zsM
 
